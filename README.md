@@ -1,4 +1,4 @@
-# react-cra-typescript-structure
+# React + TypeScript + Styled Components
 Boilerplate for a project using React and Typescript
 
 ## Installation
